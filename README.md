@@ -13,3 +13,25 @@ The rescue actions in a disaster zone starts with a wide area assessment, creati
   - live video streaming,
   - survivors detection alerts and localization,
   - area inspection and highlighting dangerous sectors.
+
+## Structure
+
+The performed analyses concern different aspects of product's lifecycle and busineess areas. They were divided into catalogs respectively as represented in the graph below.
+
+```mermaid
+flowchart LR;
+    A[RDrone analysis]-->B[Technical analysis];
+    A-->C[Business analysis];
+    A-->D[Presentations];
+
+    B-->E[Feasibility analysis];
+    B-->F[Software specification];
+
+    C-->G[Business case analysis];
+```
+
+## Tools
+As the project is strictly for demonstration and learning, the list of the tools and skills is provided:
+1. Google suite (Docs, Slides, Sheets)
+2. 
+3. 
