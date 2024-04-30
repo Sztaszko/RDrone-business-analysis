@@ -33,5 +33,5 @@ flowchart LR;
 ## Tools
 As the project is strictly for demonstration and learning, the list of the tools and skills is provided:
 1. Google suite (Docs, Slides, Sheets)
-2. 
+2. PowerBI
 3. 
